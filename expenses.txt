@@ -1,0 +1,7 @@
+ram:100
+shyam:200
+ram:50
+shyam:20
+ram:50
+ram:400
+ram:670
